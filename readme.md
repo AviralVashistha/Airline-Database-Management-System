@@ -97,4 +97,4 @@ Several SQL queries are provided for retrieving information from different table
 
 ## Modifications
 
-The README also includes modifications made to the database schema, such as creating and dropping tables, altering table structures, and adding views, triggers, and stored procedures.
+The README also includes modifications made to the database schema, such as creating and dropping tables, altering table structures, and adding views, triggers, and stored procedures. One can create and remove views and triggers by running the code given just after triggers and views.
